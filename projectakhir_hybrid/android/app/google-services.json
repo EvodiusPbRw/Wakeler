@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "227434094228",
+    "project_id": "projecthybrid-ce7ac",
+    "storage_bucket": "projecthybrid-ce7ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227434094228:android:0a8ec36fa52f388e7d5e81",
+        "android_client_info": {
+          "package_name": "com.example.projectakhir_hybrid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227434094228-etviia4qp00o54ut0kcn9bbpqtblm7l0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectakhir_hybrid",
+            "certificate_hash": "4ed191ffd6d6fa64cb46578aaa329f4855ec97d1"
+          }
+        },
+        {
+          "client_id": "227434094228-v8nkih70dopep5jcih95aavu8dse0au3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9UK0PKHEUhVlJiD0rjYqvzBl8u7c_gRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227434094228-v8nkih70dopep5jcih95aavu8dse0au3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
