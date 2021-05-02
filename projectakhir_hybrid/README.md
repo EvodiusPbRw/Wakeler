@@ -1,6 +1,6 @@
 # projectakhir_hybrid
 
-Aplikasi Belum Tahu
+Aplikasi Alarm bersifat statis, Hard Coding.
 
 ## Getting Started
 
